@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Забуті професії</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2em;
+        }
+        h2 {
+            color: #007BFF;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Забуті професії: що було, але зникло</h1>
+</header>
+
+<main>
+    <h2>Цікаві приклади:</h2>
+    <ul>
+        <li><strong>Ліхтарник</strong> – запалював вуличні ліхтарі до появи електрики.</li>
+        <li><strong>Будильник (knocker-up)</strong> – будив робітників до появи будильників.</li>
+        <li><strong>Щипаль пер</strong> – виривав пух у гусей для подушок.</li>
+        <li><strong>Ловці щурів</strong> – боролися з епідеміями.</li>
+        <li><strong>Криничний щур</strong> – чистив колодязі від мертвих тварин.</li>
+    </ul>
+
+    <h2>Чому вони зникли?</h2>
+    <ul>
+        <li>Технічний прогрес (автоматизація, нові технології).</li>
+        <li>Соціальні зміни (небезпечні або неетичні роботи).</li>
+        <li>Закони та стандарти (відмова від шкідливих методів).</li>
+    </ul>
+
+    <h2>Чи можуть повернутися?</h2>
+    <p>Деякі ремесла (гончарі, ковалі) стали популярними через хендмейд. Також з’являються нові версії старих професій (наприклад, персональні консьєржі замість слуг).</p>
+</main>
+
+<footer>
+    <p>&copy; 2025 Забуті професії</p>
+</footer>
+
+</body>
+</html>
